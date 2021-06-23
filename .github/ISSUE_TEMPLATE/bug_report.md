@@ -10,8 +10,15 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is. If it is API-related, please provide all request details such as URL, request body and headers.
 
-**To Reproduce**
-Steps to reproduce the behavior:
+**Urgency**
+- [ ] minor
+- [ ] medium
+- [ ] major
+- [ ] critical
+- [ ] show-stopper
+
+**Steps to reproduce the behavior:**
+
 1. Prepare the following test data '....'
 2. Make an API call with the following params '....'
 3. Receive the following errored response '....'

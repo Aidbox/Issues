@@ -1,20 +1,22 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Request a new Aidbox functionality
 title: ''
 labels: feature-request
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-<!-- A clear and concise description of what the problem is. Ex. I'm always frustrated when [...] -->
+## Problem I need to solve
+<!--Is your feature request related to a problem? Please provide us with a clear and concise description -->
 
-**Describe the solution you'd like**
-<!-- A clear and concise description of what you want to happen. -->
 
-**Describe alternatives you've considered**
-<!-- A clear and concise description of any alternative solutions or features you've considered. -->
+## Solution I see
+<!--**Describe the solution you'd like**
+ A clear and concise description of what you want to happen. -->
 
-**Additional context**
+## Alternatives I've considered, but they don't work
+<!--Please describe alternatives you've considered** -->
+
+## Additional context
 <!-- Add any other context or screenshots about the feature request here. -->

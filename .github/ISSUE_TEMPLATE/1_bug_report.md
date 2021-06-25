@@ -36,25 +36,22 @@ assignees: ''
 - Docker version (if applicable)
 
  - Aidbox image version
-
- - [ ] stable
- - [ ] edge
- - [ ] timestamped image (please provide the exact name)
+   - [ ] stable
+   - [ ] edge
+   - [ ] timestamped image (please provide the exact name)
 
  - Aidboxdb version (if applicable)
-
- - [ ] 11.11
- - [ ] 12.6
- - [ ] 13.2
+   - [ ] 11.11
+   - [ ] 12.6
+   - [ ] 13.2
 
  - Browser version (if applicable)
 
  - Cloud provider (if applicable)
-
- - [ ] AWS
- - [ ] GCP
- - [ ] Azure
- - [ ] Other
+   - [ ] AWS
+   - [ ] GCP
+   - [ ] Azure
+   - [ ] Other <!-- (please specify) -->
 
 **Additional context**
 <!-- Add any other context about the problem here. -->

@@ -7,8 +7,6 @@ assignees: ''
 
 ---
 
-## Checklist
-
 <!--
 Please check similar issues before you submit your question. 
 -->

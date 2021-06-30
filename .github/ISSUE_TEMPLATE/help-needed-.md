@@ -1,6 +1,6 @@
 ---
 name: 'Help needed '
-about: Please use this template if you have Aidbox-related questions
+about: Please use this template if you need help with Devbox or Aidbox
 title: I need help
 labels: help-wanted
 assignees: ''

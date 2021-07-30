@@ -10,12 +10,8 @@ assignees: ''
 **Describe the bug**
 <!-- A clear and concise description of what the bug is. If it is API-related, please provide all request details such as URL, request body and headers. -->
 
-**Urgency**
-- [ ] minor
-- [ ] medium
-- [ ] major
-- [ ] critical
-- [ ] show-stopper
+**Severity**
+<!-- Please specify how critical is it for you. If it is API-related, please provide all request details such as URL, request body and headers. -->
 
 **Steps to reproduce the behavior:**
 <!-- 
@@ -36,22 +32,13 @@ assignees: ''
 - Docker version (if applicable)
 
  - Aidbox image version
-   - [ ] stable
-   - [ ] edge
-   - [ ] timestamped image (please provide the exact name)
+ <!-- Please let us know what Aidbox image version do you use: stable, edge, timestamped image (please provide the exact name) . -->
 
  - Aidboxdb version (if applicable)
-   - [ ] 11.11
-   - [ ] 12.6
-   - [ ] 13.2
 
  - Browser version (if applicable)
 
  - Cloud provider (if applicable)
-   - [ ] AWS
-   - [ ] GCP
-   - [ ] Azure
-   - [ ] Other <!-- (please specify) -->
 
 **Additional context**
 <!-- Add any other context about the problem here. -->

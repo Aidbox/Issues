@@ -25,8 +25,7 @@ jobs:
         days-before-close: 30
         stale-issue-message: >
           This issue has been automatically marked as stale
-          because it has not had activity in the last 30 days.
-          It will be closed in the next 30 days.
+          because it has not had activity in the last 30 days. Please make sure you've added all the necessary details including clear description and severity level.
         close-issue-message: >
           This issue has been automatically closed because it has not had activity in the last 60 days. 
           If this issue is still valid, re-open the issue and let us know.

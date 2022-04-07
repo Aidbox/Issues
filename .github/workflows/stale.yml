@@ -22,7 +22,7 @@ jobs:
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         days-before-stale: 60
-        days-before-close: 30
+        days-before-close: 60
         stale-issue-message: >
           This issue has been automatically marked as stale
           because it has not had activity in the last 30 days. Please make sure you've added all the necessary details including clear description and severity level.
